@@ -1,4 +1,4 @@
-Data Analysis – Synthetic Sales Data Project
+Data Analysis is Synthetic Sales Data Project
 Project Overview
 
 This project demonstrates basic data analysis using Python on a synthetic sales dataset.
@@ -22,11 +22,11 @@ Tools & Libraries Used
 
 Python 3
 
-Pandas – data manipulation
+Pandas is data manipulation
 
-NumPy – random data generation
+NumPy is random data generation
 
-Matplotlib – visualization
+Matplotlib import chart visualization
 
 Dataset Description
 
@@ -52,9 +52,9 @@ Aggregation – Revenue grouped by region.
 
 Visualization
 
-Bar Chart – Revenue by Region
+Bar Chart is Revenue by Region
 
-Line Chart – Monthly Revenue Trend
+Line Chart is Monthly Revenue Trend
 
 Key Insights
 
@@ -66,4 +66,4 @@ Revenue is influenced by both unit sales and price variation.
 
 Conclusion
 
-This beginner-friendly project provides hands-on experience with the complete data analysis workflow including data creation, statistical analysis, visualization, and interpretation. It helps build foundational skills required for real-world analytics projects.
+This beginner friendly project provides hands on experience with the complete data analysis workflow including data creation, statistical analysis, visualization, and interpretation. It helps build foundational skills required for real world analytics projects is predict the data for future use
